@@ -1,0 +1,24 @@
+body {
+  background-color: #121c47;
+}
+
+.montserrat {
+  font-family: Montserrat;
+  font-weight: bold;
+  color: #58607e;
+}
+
+.euphoriascript {
+  font-family: 'Euphoria Script';
+  color: #fff;
+}
+
+.name {
+  font-family: Montserrat;
+}
+
+.borders {
+  border-top: 3px solid #fff;
+  border-bottom: 3px solid #fff;
+  color: #12d9c4;
+}
